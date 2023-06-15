@@ -1,2 +1,2 @@
 abcd
-cnxm1
+base1
